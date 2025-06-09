@@ -49,7 +49,7 @@ On macOS, you can install via [Homebrew](https://brew.sh/) with `brew install li
 
 ## Alternative build systems
 - The supported way of building project is by using autotools.
-- Optionally project provides basic support for CMake, Xcode and MSVC++ systems. However these alternative configurations are not covering all options of autotools project. They are also not tested and not updated regularly. 
+- Optionally project provides basic support for CMake, Xcode, MSVC++ and [OpenHarmony](https://gitcode.com/openharmony-sig/tpc_c_cplusplus/blob/master/Cross-Compilation Guide for Open-Source Third-Party Libraries in OpenHarmony_en.md) systems. However these alternative configurations are not covering all options of autotools project. They are also not tested and not updated regularly.  
 
 ## Usage
 - single include file: `#include <mobi.h>`
